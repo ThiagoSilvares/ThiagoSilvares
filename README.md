@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Thiago 👋
 
-<!--
-**ThiagoSilvares/ThiagoSilvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focado em APIs, microsserviços e soluções escaláveis utilizando Node.js, TypeScript e ReactJS.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- TypeScript
+- JavaScript
+- Node.js
+- ReactJS
+- MongoDB
+- PostgreSQL
+- AWS
+- Jest
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- GreenSight
+- Sistemas de monitoramento em tempo real
+- Projeto para Biblioteca da Instituição
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/thiago-silvares-075883305
+- Email: t.silvares74@gmail.com
