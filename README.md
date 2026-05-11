@@ -1,6 +1,6 @@
 # Olá, eu sou o Thiago 👋
 
-Backend Developer focado em APIs, microsserviços e soluções escaláveis utilizando Node.js, TypeScript e ReactJS.
+Backend Developer focado em APIs, microsserviços e soluções escaláveis utilizando Node.js e TypeScript.
 
 ## 🚀 Tecnologias
 - TypeScript
