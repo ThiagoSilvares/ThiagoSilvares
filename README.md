@@ -15,8 +15,8 @@ Backend Developer focado em APIs, microsserviços e soluções escaláveis utili
 
 ## 📌 Projetos em destaque
 - GreenSight
-- Sistemas de monitoramento em tempo real
-- Projeto para biblioteca da Instituição
+- Sistema de face recognition para metro
+- Sistemas de monitoramento caixa d'agua em tempo real
 
 ## 📫 Contato
 - LinkedIn: https://linkedin.com/in/thiago-silvares-075883305
